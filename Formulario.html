@@ -9,7 +9,7 @@
 <body>
     <h1>Formulario</h1>
     <fieldset>
-        <form action="">
+        <form action="ws/createElement.php" method="post">
 
             <p>Nombre del elemento:</p>
             <input type="text" name="nombre">
@@ -18,7 +18,7 @@
             <textarea name="descripcion"></textarea>
 
             <p>Número de serie del elemento:</p>
-            <input type="text" name="numero deserie">
+            <input type="text" name="numero de serie">
 
             <p>Estado:</p>
             <input type="checkbox" name="estado">
@@ -29,11 +29,11 @@
 
 
             <p>Prioridad:</p>
-            <input type="radio" name="prioridad">
+            <input type="radio" name="prioridad" value="Alta">
             <label>Alta</label>
-            <input type="radio" name="prioridad">
+            <input type="radio" name="prioridad" value="Media">
             <label>Media</label>
-            <input type="radio" name="prioridad">
+            <input type="radio" name="prioridad" value="Baja">
             <label>Baja</label>
 
 

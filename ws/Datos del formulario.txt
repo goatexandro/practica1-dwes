@@ -1,0 +1,10 @@
+{"nombre":"errere","descripcion":"tr","numero_de_serie":"54","estado":"on","prioridad":"Media"}
+{"nombre":"errere","descripcion":"tr","numero_de_serie":"54","estado":"on","prioridad":"Media"}
+{"nombre":"omg","descripcion":"tr","numero_de_serie":"54","estado":"on","prioridad":"Media"}
+{"nombre": "dsa","descripcion": "dfsf","numero_de_serie": "453","estado": "on","prioridad": "Alta"}
+
+
+{"nombre": "dsa6uy6y","descripcion": "dfsf","numero_de_serie": "453","estado": "on","prioridad": "Alta"}
+{"nombre": dsa6uy6y, "descripcion": dfsf, "numero_de_serie": 453, "estado": on, "prioridad": Alta}
+{"nombre": dsa6uy6y, "descripcion": dfsf, "numero_de_serie": 453, "estado": on, "prioridad": Alta}
+{"nombre": "dsa6uy6y", "descripcion": "dfsf", "numero_de_serie": "453", "estado": "on", "prioridad": "Alta"}
